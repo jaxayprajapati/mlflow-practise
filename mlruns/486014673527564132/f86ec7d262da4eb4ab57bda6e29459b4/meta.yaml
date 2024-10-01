@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486014673527564132/f86ec7d262da4eb4ab57bda6e29459b4/artifacts
+end_time: 1727823721725
+entry_point_name: ''
+experiment_id: '486014673527564132'
+lifecycle_stage: active
+run_id: f86ec7d262da4eb4ab57bda6e29459b4
+run_name: fun-crab-949
+run_uuid: f86ec7d262da4eb4ab57bda6e29459b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727823719445
+status: 3
+tags: []
+user_id: jaxay

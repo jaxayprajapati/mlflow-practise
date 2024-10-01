@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486014673527564132/4136e478e186451d946fef0c2a57a5a2/artifacts
+end_time: 1727823642522
+entry_point_name: ''
+experiment_id: '486014673527564132'
+lifecycle_stage: active
+run_id: 4136e478e186451d946fef0c2a57a5a2
+run_name: omniscient-mule-350
+run_uuid: 4136e478e186451d946fef0c2a57a5a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727823640323
+status: 3
+tags: []
+user_id: jaxay
