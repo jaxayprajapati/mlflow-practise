@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-practise/mlruns/117974763594770913/f78e440871474b5fbd35d312fecd66d7/artifacts
+end_time: 1727825365301
+entry_point_name: ''
+experiment_id: '117974763594770913'
+lifecycle_stage: active
+run_id: f78e440871474b5fbd35d312fecd66d7
+run_name: salty-bass-269
+run_uuid: f78e440871474b5fbd35d312fecd66d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727825365291
+status: 3
+tags: []
+user_id: jaxay

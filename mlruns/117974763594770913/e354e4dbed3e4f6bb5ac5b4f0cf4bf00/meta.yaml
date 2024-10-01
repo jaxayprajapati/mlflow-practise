@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-practise/mlruns/117974763594770913/e354e4dbed3e4f6bb5ac5b4f0cf4bf00/artifacts
+end_time: 1727825365379
+entry_point_name: ''
+experiment_id: '117974763594770913'
+lifecycle_stage: active
+run_id: e354e4dbed3e4f6bb5ac5b4f0cf4bf00
+run_name: dashing-fawn-838
+run_uuid: e354e4dbed3e4f6bb5ac5b4f0cf4bf00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727825365368
+status: 3
+tags: []
+user_id: jaxay

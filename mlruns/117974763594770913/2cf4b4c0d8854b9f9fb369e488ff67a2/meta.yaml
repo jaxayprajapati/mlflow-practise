@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-practise/mlruns/117974763594770913/2cf4b4c0d8854b9f9fb369e488ff67a2/artifacts
+end_time: 1727825365239
+entry_point_name: ''
+experiment_id: '117974763594770913'
+lifecycle_stage: active
+run_id: 2cf4b4c0d8854b9f9fb369e488ff67a2
+run_name: abrasive-mare-331
+run_uuid: 2cf4b4c0d8854b9f9fb369e488ff67a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727825365228
+status: 3
+tags: []
+user_id: jaxay

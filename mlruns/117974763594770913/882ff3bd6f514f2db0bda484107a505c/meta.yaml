@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-practise/mlruns/117974763594770913/882ff3bd6f514f2db0bda484107a505c/artifacts
+end_time: 1727825365286
+entry_point_name: ''
+experiment_id: '117974763594770913'
+lifecycle_stage: active
+run_id: 882ff3bd6f514f2db0bda484107a505c
+run_name: tasteful-smelt-655
+run_uuid: 882ff3bd6f514f2db0bda484107a505c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727825365276
+status: 3
+tags: []
+user_id: jaxay

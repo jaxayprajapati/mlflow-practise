@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727825660928
+current_stage: None
+description: ''
+last_updated_timestamp: 1727825660928
+name: Jaxay-M1
+run_id: 593e28fb602a4407858b29ad8a8b587d
+run_link: ''
+source: file:///D:/mlflow-practise/mlruns/117974763594770913/593e28fb602a4407858b29ad8a8b587d/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///D:/mlflow-practise/mlruns/117974763594770913/593e28fb602a4407858b29ad8a8b587d/artifacts/random_forest
+user_id: null
+version: 1

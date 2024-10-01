@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-practise/mlruns/117974763594770913/2cd53eecbf124069bd103942b39892cc/artifacts
+end_time: 1727825365363
+entry_point_name: ''
+experiment_id: '117974763594770913'
+lifecycle_stage: active
+run_id: 2cd53eecbf124069bd103942b39892cc
+run_name: sassy-fawn-89
+run_uuid: 2cd53eecbf124069bd103942b39892cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727825365353
+status: 3
+tags: []
+user_id: jaxay
